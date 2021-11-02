@@ -1,0 +1,23 @@
+#input_container {
+    position:relative;
+    padding:0 0 0 0px;
+    margin:0 0px;
+ 
+    direction: ltr;
+    
+}
+#input {
+    
+    margin:0;
+    padding-right: 30px;
+    width: 100%;
+    line-height: 1.5;
+}
+#input_img {
+    position:absolute;
+    bottom:8px;
+    right:5px;
+    width:24px;
+    height:24px;
+    color:grey; 
+}
